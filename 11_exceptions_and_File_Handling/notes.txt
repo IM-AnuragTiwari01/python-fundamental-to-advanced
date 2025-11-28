@@ -1,0 +1,11 @@
+EXCEPTION HANDLING 
+
+
+Some frequent errors
+------------------------
+IndexError
+KeyError
+ZeroDivisionError
+TypeError
+NameError
+------------------------
